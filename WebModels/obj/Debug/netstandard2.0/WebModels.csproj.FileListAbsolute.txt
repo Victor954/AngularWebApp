@@ -1,0 +1,9 @@
+d:\Developer\Reposytory\AngularWebApp\WebModels\bin\Debug\netstandard2.0\WebModels.deps.json
+d:\Developer\Reposytory\AngularWebApp\WebModels\bin\Debug\netstandard2.0\WebModels.dll
+d:\Developer\Reposytory\AngularWebApp\WebModels\bin\Debug\netstandard2.0\WebModels.pdb
+d:\Developer\Reposytory\AngularWebApp\WebModels\obj\Debug\netstandard2.0\WebModels.csprojAssemblyReference.cache
+d:\Developer\Reposytory\AngularWebApp\WebModels\obj\Debug\netstandard2.0\WebModels.AssemblyInfoInputs.cache
+d:\Developer\Reposytory\AngularWebApp\WebModels\obj\Debug\netstandard2.0\WebModels.AssemblyInfo.cs
+d:\Developer\Reposytory\AngularWebApp\WebModels\obj\Debug\netstandard2.0\WebModels.csproj.CoreCompileInputs.cache
+d:\Developer\Reposytory\AngularWebApp\WebModels\obj\Debug\netstandard2.0\WebModels.dll
+d:\Developer\Reposytory\AngularWebApp\WebModels\obj\Debug\netstandard2.0\WebModels.pdb
