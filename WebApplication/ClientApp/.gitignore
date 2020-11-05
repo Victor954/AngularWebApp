@@ -27,10 +27,6 @@ speed-measure-plugin*.json
 .vscode/*
 .history/*
 
-# ASP.NET Core
-bin/*
-obj/*
-
 # misc
 /.sass-cache
 /connect.lock

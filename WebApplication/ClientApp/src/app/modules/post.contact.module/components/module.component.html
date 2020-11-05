@@ -1,1 +1,11 @@
-<post-component *ngFor="let postData of postDataCollection" [postData] = "postData"></post-component>
+
+<div fxLayout="column">
+
+    <div fxLayout="row">
+    
+        <div *ngFor="let postData of postDataCollection" fxFlex="33">
+            <post-component [postData] = "postData"></post-component>
+        </div>
+    </div>
+</div>
+
