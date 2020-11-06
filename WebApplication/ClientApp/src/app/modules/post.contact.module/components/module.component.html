@@ -1,11 +1,31 @@
 
-<div fxLayout="column">
+<div fxLayout="row">
+    <div 
+    fxLayout="column" 
+    fxFlex="50">
 
-    <div fxLayout="row">
-    
-        <div *ngFor="let postData of postDataCollection" fxFlex="33">
-            <post-component [postData] = "postData"></post-component>
-        </div>
+        <post-filter-component></post-filter-component>
+    </div>
+</div>
+
+<div fxLayout="row wrap" fxLayoutGap="35px">
+
+    <div *ngFor="let postData of postDataCollection" 
+    fxLayout="column" 
+    fxFlex="30">
+        <post-component [postData] = "postData"></post-component>
+    </div>
+
+    <div *ngFor="let postData of postDataCollection" 
+    fxLayout="column" 
+    fxFlex="30">
+        <post-component [postData] = "postData"></post-component>
+    </div>
+
+    <div 
+    fxLayout="column" 
+    fxFlex="100">
+        <post-pagination-component></post-pagination-component>
     </div>
 </div>
 
